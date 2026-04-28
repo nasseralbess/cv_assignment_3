@@ -1,0 +1,8 @@
+segmentation-models-pytorch
+ipykernel
+ipywidgets
+numpy
+torch --index-url https://download.pytorch.org/whl/cu128
+torchvision --index-url https://download.pytorch.org/whl/cu128
+matplotlib
+scikit-learn
